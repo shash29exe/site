@@ -1,1 +1,1 @@
-[Github Pages](https://shash29exe.github.io/site)
+[GitHub Pages](https://shash29exe.github.io/site)
